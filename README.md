@@ -1,4 +1,4 @@
-# 📈 Statistics and Machine Learning
+# 📈 Statistics & Machine Learning
 - 책의 개념과 실습 코드를 통해 통계와 머신러닝 기초을 쌓았습니다.
 - 배운 것들을 대회나 프로젝트에 적용함으로써, 활용 능력을 높이고 있습니다.
 
