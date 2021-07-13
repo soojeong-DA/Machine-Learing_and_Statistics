@@ -10,9 +10,11 @@
 <img src="./image/python_machine_learning_book.jpg" width="200" height="250">
 
 ### 2. 데이터 과학을 위한 통계
-- 통계 기본부터 활용까지 배울 수 있었고, 지금은 복습 중
+- 통계에 대한 전반적인 이해 기반과 머신러닝 활용법까지 많은 것을 배울 수 있었음       
+📌 앞으로 실무 분석 업무를 할 때도 자주 참고할 책! 
 <img src="./image/data_science_statistics.jpg" width="200" height="250">
 
 ### 3. 파이썬으로 배우는 통계학 교과서
-- 어렵지 않은 내용으로 기술되어있어, 빠르게 읽으며 학습 중
+- back to the basic! ✏
+- 가볍고 어렵지 않은 내용으로 기술되어있어, 빠르게 읽으며 학습 중
 <img src="./image/python_statistics.jpg" width="200" height="250">
